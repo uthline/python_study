@@ -1,1 +1,3 @@
-# python_study
+# Python examples
+python code snippets
+
